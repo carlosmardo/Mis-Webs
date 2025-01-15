@@ -4,10 +4,10 @@
 
 ## 📂 Índice de Proyectos
 
-- [🎺 Banda de Cornetas y Tambores Nuestra Señora del Carmen de Almería](https://github.com/tu-usuario/Mis-Webs-main/tree/main/elcarmen) - [Ver Web](https://preeminent-treacle-11c764.netlify.app/)
-- [🎶 Agrupación Musical Nuestra Señora del Mar de Huércal de Almería](https://github.com/tu-usuario/Mis-Webs-main/tree/main/nstrdelmar) - [Ver Web](https://jazzy-truffle-3bb29d.netlify.app/)
-- [🎵 Agrupación Musical Nuestro Padre Jesús de la Pasión de Linares](https://github.com/tu-usuario/Mis-Webs-main/tree/main/pasiondelinares) - [Ver Web](https://remarkable-kelpie-1b037c.netlify.app/)
-- [🎷 Banda de Cornetas y Tambores Santa Cruz de Almería](https://github.com/tu-usuario/Mis-Webs-main/tree/main/santacruz) - [Ver Web](https://glowing-granita-7c57db.netlify.app/)
+- [🎺 Banda de Cornetas y Tambores Nuestra Señora del Carmen de Almería](https://github.com/carlosmardo/Mis-Webs-main/tree/main/elcarmen) - [Ver Web](https://preeminent-treacle-11c764.netlify.app/)
+- [🎶 Agrupación Musical Nuestra Señora del Mar de Huércal de Almería](https://github.com/carlosmardo/Mis-Webs-main/tree/main/nstrdelmar) - [Ver Web](https://jazzy-truffle-3bb29d.netlify.app/)
+- [🎵 Agrupación Musical Nuestro Padre Jesús de la Pasión de Linares](https://github.com/carlosmardo/Mis-Webs-main/tree/main/pasiondelinares) - [Ver Web](https://remarkable-kelpie-1b037c.netlify.app/)
+- [🎷 Banda de Cornetas y Tambores Santa Cruz de Almería](https://github.com/carlosmardo/Mis-Webs-main/tree/main/santacruz) - [Ver Web](https://glowing-granita-7c57db.netlify.app/)
 
 ## 🛠️ Tecnologías Usadas
 

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link rel="stylesheet" href="css/conectar.css">
+    <title>AGRUPACION MUSICAL NUESTRA SEÑORA DEL MAR DE HUERCAL DE ALMERIA</title>
+    <link rel="icon" href="img/escudo.webp" type="image/x-icon">
+    <link rel="shortcut icon" href="img/escudo.webp" type="image/x-icon">
+</head>
+<body>
+    <div class="login-container">
+        <h2>AM NUESTRA SEÑORA DEL MAR</h2>
+        <form id="login-form">
+            <div class="form-group">
+                <label for="username">Usuario:</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Contraseña:</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <div class="form-group">
+                <button type="submit">Login</button>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById("login-form").addEventListener("submit", function(event) {
+            event.preventDefault(); // Prevent the form from submitting
+
+            // Get the username and password from the form
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+
+            // Here you can add your logic to check the username and password
+            // For a simple example, let's just print them to the console
+            console.log("Username: " + username);
+            console.log("Password: " + password);
+
+            // After checking credentials, you can redirect the user to another page or perform other actions
+        });
+    </script>
+</body>
+</html>
